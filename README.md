@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 
 <div align="center"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=##ed7aff&height=150&section=header"/></div>
 
-###### <div align="center">"No matter how ridiculous the odds may seem, within us reside the power to overcome these challenges and achieve something beautiful, and one day we'll look back at where we started and be amazed by how far we've come." - Technoblade 🐷👑</div>
+###### <div align="center">"Education is the passport to the future, for tomorrow belongs to those who prepare for it today." - Malcolm X </div>
 
-<div align="center">
-  <img align="center" alt="Cat-Standing-On-Code-Watching-A-Simulated-Rainfall-To-The-Side" height="300" src="https://c.tenor.com/NqURjAGH6GYAAAAd/cat-code.gif">
-</div>
 
-## <div align="center" style="align-items: center; justify-content: center"><p style="text-align: center">👋😎</p>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ed7aff&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Mateus+Reis.;I'm+a+Full-Stack+Developer.;I+am+23+years+old,+and+I'm+from+Brazil,+RJ.)](https://git.io/typing-svg)
+
+## <div align="center" style="align-items: center; justify-content: center"><p style="text-align: center">👋😎</p>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ed7aff&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Ícaro.;I'm+a+Full-Stack+Developer.;I+am+28+years+old,+and+I'm+from+Brazil,+RJ.)](https://git.io/typing-svg)
 
 <div align='center'>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -54,9 +52,9 @@ Here are some ideas to get you started:
 ##
 
 <div align="center"><br>
- <a href="https://discord.com/users/678695920388538391" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mateuspsvreis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mateuspsvreis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.com/users/ikaro460" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:ikaro_460@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/icarogaspar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <div align="center"><br>
