@@ -57,8 +57,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/icarogaspar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center"><br>
-  <a href="https://github.com/ikaro460">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ikaro460&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikaro460&layout=compact&langs_count=7&hide_title=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+<div align="center">
+  <br><br>
+   <img height="210px" src="https://github-readme-stats.vercel.app/api?username=ikaro460&show_icons=true&count_private=true&hide_border=true&title_color=9000D3&icon_color=FFBF00&text_color=F0F8FF&bg_color=000000" alt="Icaro's Github Stats" /> 
+      <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikaro460&layout=compact&hide_border=true&title_color=9000D3&text_color=F0F8FF&bg_color=000000" alt="Icaro's Most Used Languages" />
 </div>
